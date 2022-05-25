@@ -1,0 +1,19 @@
+npm - node package manager (gerenciador de pacotes do node)
+
+npm install express
+
+node app.js - executa o servidor
+
+localhost:8080 - acessar o servidor no navegador
+ctrl + c - para o servidor
+
+criar um arquivo chamado .gitignore
+
+o arquivo .gitignore, ignora arquivos/pastas que forem adicionas nele
+
+comandos para commitar:
+
+git status (ver status atual dos arquivos)
+git add . (prepara todos os arquivos para serem subidos no repositório)
+git commit -m "MENSAGEM" (adiciona mensagem para subir no g
+yii-gfmb-wuy
